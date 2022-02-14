@@ -21,7 +21,7 @@ class MobileScreenLayout extends StatelessWidget {
             children: [
               // Flexible(child: Container(), flex: 2),
               const WordCard(
-                name: 'Dewi',
+                name: 'Ummi Fadilah',
                 word: 'Hi,',
                 isheader: true,
               ),
