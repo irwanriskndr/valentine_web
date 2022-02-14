@@ -17,7 +17,7 @@ class _MobileScreen4State extends State<MobileScreen4> {
     'assets/3.png',
     'assets/4.png',
     'assets/5.png',
-    'assets/6.png',
+    'assets/6.jpeg',
   ];
   @override
   Widget build(BuildContext context) {
