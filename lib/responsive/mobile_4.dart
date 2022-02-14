@@ -57,7 +57,7 @@ class _MobileScreen4State extends State<MobileScreen4> {
                         color: Colors.black,
                       ),
                       Image.asset(
-                        'assets/images/heart.png',
+                        'assets/heart.png',
                         height: 68,
                         width: 61,
                       ),
