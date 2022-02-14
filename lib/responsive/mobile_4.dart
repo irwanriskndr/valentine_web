@@ -12,12 +12,12 @@ class MobileScreen4 extends StatefulWidget {
 
 class _MobileScreen4State extends State<MobileScreen4> {
   final urlImages = [
-    'assets/images/1.png',
-    'assets/images/2.png',
-    'assets/images/3.png',
-    'assets/images/4.png',
-    'assets/images/5.png',
-    'assets/images/6.jpeg',
+    'build/web/assets/images/1.png',
+    'build/web/assets/images/2.png',
+    'build/web/assets/images/3.png',
+    'build/web/assets/images/4.png',
+    'build/web/assets/images/5.png',
+    'build/web/assets/images/6.jpeg',
   ];
   @override
   Widget build(BuildContext context) {
