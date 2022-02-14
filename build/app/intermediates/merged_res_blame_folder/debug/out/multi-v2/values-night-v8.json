@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\BWA Course\\flutter_valentine_greeting_web\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "E:\\BWA Course\\valentine_web\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "E:\\BWA Course\\flutter_valentine_greeting_web\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "E:\\BWA Course\\valentine_web\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
